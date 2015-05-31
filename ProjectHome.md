@@ -1,0 +1,2 @@
+The csv2arff project is Python converter from the CSV file format to the ARFF file format. The latter is the data format used in the Weka Machine Learning software (http://www.cs.waikato.ac.nz/ml/weka/).
+Two version of the tool are planned: a command line version and a GUI version.
